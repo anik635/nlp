@@ -1,0 +1,9 @@
+openai-whisper
+language-tool-python
+jiwer
+streamlit
+matplotlib
+pandas
+numpy
+torch
+torchaudio
